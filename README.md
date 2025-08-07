@@ -28,10 +28,12 @@ Do not run it on public or unauthorized networks.
 ## 🖥️ How to Run
 
 ### ▶️ Install Scapy:
+
 bash
 pip install scapy
 
 ▶️ Run the script:
+
 bash
 sudo python3 packet_sniffer.py
 
@@ -50,5 +52,3 @@ Sahil Khan
 Cybersecurity Intern @ Prodigy InfoTech
 GitHub: sudoxsahil
 
-```bash
-pip install scapy
